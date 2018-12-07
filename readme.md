@@ -22,6 +22,6 @@ The CSV file can then be imported into Excel, or another program of your choosin
 
 ## Binaries
 
-Windows binaries are available under releases.
+Windows binaries are available under releases. [You can download them here.](/releases/latest)
 
 See usage for usage information.
