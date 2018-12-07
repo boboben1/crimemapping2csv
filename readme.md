@@ -22,6 +22,6 @@ The CSV file can then be imported into Excel, or another program of your choosin
 
 ## Binaries
 
-Windows binaries are available under releases. [You can download them here.](/releases/latest)
+Windows binaries are available under releases. [You can download them here.](https://github.com/boboben1/crimemapping2csv/releases)
 
 See usage for usage information.
