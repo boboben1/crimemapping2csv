@@ -2,6 +2,10 @@
 
 Converts CrimeMapping Reports table innerHTML to CSV.
 
+## License
+
+CrimeMap2Csv is licensed under the MIT License. Please see LICENSE for more info.
+
 ## Installation
 
 - Install nodejs and git.
@@ -11,6 +15,13 @@ Converts CrimeMapping Reports table innerHTML to CSV.
 ## Usage
 
 To use, save the innerHTML of the CrimeMapping reports table to an HTML file.
-Run `npm start <file.html>`
+Run `npm start <file.html>` if cloned repo.
+Run `crime2csv.exe <file.html>` if using windows repo. Note: You can drag the html file.
 
 The CSV file can then be imported into Excel, or another program of your choosing.
+
+## Binaries
+
+Windows binaries are available under releases.
+
+See usage for usage information.
